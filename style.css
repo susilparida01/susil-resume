@@ -16,7 +16,7 @@ header {
 }
 
 .header-container {
-  max-width: 1000px;
+  max-width: 1500px;
   margin: auto;
   display: flex;
   align-items: flex-start;
@@ -96,7 +96,7 @@ header h1 {
 }
 .tab-btn {
   flex: 1;
-  padding: 12px;
+  padding: 14px;
   background: #004aad;
   color: white;
   border: none;
@@ -110,7 +110,7 @@ header h1 {
 
 /* ===== TAB CONTENT ===== */
 .tab-wrapper {
-  max-width: 900px;
+  max-width: 1500px;
   margin: 20px auto;
   background: white;
   border-radius: 10px;
